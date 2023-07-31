@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elul-Asfaha
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React.js and tailwind.css
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me
 - Email: scorpiondota22@gmail.com
 - Email: elulasfahakahsai@gmail.com
