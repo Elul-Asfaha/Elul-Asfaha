@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Elul-Asfaha
-- 👀 I’m interested in Frontend Development
+- 👀 I’m a Frontend Developer
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me
 - Email: scorpiondota22@gmail.com
-- Email: elulasfahakahsai@gmail.com
 - telegram: @og_sauron
